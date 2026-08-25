@@ -29,6 +29,8 @@ This repository tracks the premier **SaaS platforms** 🏢 and **open-source pro
 
 ## 🏢 SaaS/Hosted Platforms
 
+> 🌐 **Market Overview:** The global Conversational Voice AI market is estimated at **~$2.5B+ (2025)** and projected to reach **$12B–$15B+ by 2030** (~25–30% CAGR). The sector is currently **moderately to highly fragmented** across specialized infrastructure layers (foundational speech models, low-latency orchestration pipelines, and vertical telephony applications) rather than a single winner-take-all platform.
+>
 > 📊 Sorted by **Company Size / Valuation** in descending order.
 
 | Platform | Core Capabilities | Company Size / Valuation | Pricing | Free Tier / Limits |
