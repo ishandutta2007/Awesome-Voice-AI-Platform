@@ -35,13 +35,21 @@ This repository tracks the premier **SaaS platforms** 🏢 and **open-source pro
 
 | Platform | Core Capabilities | Company Size / Valuation | Pricing | Free Tier / Limits |
 | :--- | :--- | :--- | :--- | :--- |
+| **[OpenAI Realtime API](https://openai.com/)** | Multimodal speech-to-speech API (GPT-4o Realtime) with ultra-low latency bidirectional audio streaming. | $150B+ (Decacorn) | ~$0.06/min audio in, ~$0.24/min audio out ($100/$200 per 1M tokens) | $5 initial developer credit |
+| **[SoundHound AI](https://www.soundhound.com/)** | Enterprise voice AI platform (Amelia / Houndify) powering automated phone agents, automotive, and customer service. | ~$2.0B+ (Public - NASDAQ: SOUN) | Usage-based / Enterprise contracts | Developer trial with free monthly API queries |
 | **[ElevenLabs Conversational AI](https://elevenlabs.io/)** | Conversational AI built on top-tier TTS, offering natural voices and orchestration. | $1.1B+ (Unicorn) | Billed by the minute (rates vary) / ~1 credit per character (TTS) | 10,000 characters/month (~10 mins) |
+| **[PolyAI](https://poly.ai/)** | Enterprise-grade conversational voice assistants engineered for high-volume customer service contact centers. | ~$500M+ | Custom enterprise / usage-based | Sandbox POC on request |
 | **[Deepgram Voice Agent](https://deepgram.com/)** | Voice agent capabilities built on Deepgram’s high-performance speech-to-text. | ~$500M+ | $4.50 per hour ($0.075 per min) | $200 in free credits (one-time) |
-| **[Hume AI](https://www.hume.ai/)** | Empathic voice AI platform centered on expressive, emotionally intelligent models. | ~$200M+ | $0.06 to $0.07 per minute | 5 minutes of usage per month |
+| **[AssemblyAI](https://www.assemblyai.com/)** | Streaming Speech-to-Text and Speech Intelligence APIs (Universal-1) tailored for real-time voice bots. | ~$300M+ | $0.00026/sec (~$0.0155/min) | $50 free credits on signup |
+| **[Hume AI](https://www.hume.ai/)** | Empathic voice AI platform centered on expressive, emotionally intelligent models (EVI). | ~$200M+ | $0.06 to $0.07 per minute | 5 minutes of usage per month |
+| **[Voiceflow](https://www.voiceflow.com/)** | Collaborative conversation design platform for building, prototyping, and deploying voice AI agents. | ~$150M+ | $50/editor/month (Pro tier) | Free plan (up to 100k AI tokens/month, 2 agents) |
+| **[Speechmatics](https://www.speechmatics.com/)** | Real-time automatic speech recognition and conversational voice framework (Flow). | ~$100M+ | $0.016 to $0.025 per minute | 4 hours of audio/month free |
 | **[Daily.co](https://www.daily.co/)** | Real-time video/audio infrastructure used as a transport layer for voice agents. | ~$100M+ | $0.004 per participant-minute | 10,000 participant-minutes/month |
+| **[Gladia](https://www.gladia.io/)** | Ultra-low-latency real-time multilingual STT and audio intelligence engine for voice bots. | ~$70M+ | $0.00021/sec (~$0.0126/min) | 10 hours/month free |
 | **[Vapi](https://vapi.ai/)** | Developer-first voice AI infrastructure for building agents with flexible orchestration. | ~$50M+ | $0.05 per min (plus pass-through) | $10 trial credit (150-200 mins) |
 | **[Bland AI](https://www.bland.ai/)** | AI-native voice agent platform strong in high-volume outbound campaigns. | ~$50M+ | $0.14 per minute | 100 calls/day, 10 concurrent limits |
 | **[PlayAI / Play.ai](https://play.ai/)** | Voice-focused platform emphasizing high-quality TTS and conversational experiences. | ~$50M+ | $0.18 per min (Starter plan overage) | 30 minutes of voice usage |
+| **[Synthflow AI](https://synthflow.ai/)** | No-code voice AI assistant builder with native CRM and calendar telephony integrations. | ~$40M+ | $29/mo starter (approx $0.15/min) | 14-day free trial |
 | **[Cartesia](https://cartesia.ai/)** | Low-latency generative voice and speech models optimized for real-time conversational AI. | ~$30M+ | ~1 credit per character (TTS) | 20,000 credits per month |
 | **[Retell AI](https://www.retellai.com/)** | Full-stack AI voice agent platform optimized for natural turn-taking and telephony. | ~$30M+ | $0.13 to $0.31 per minute | $10 credit (20 concurrent calls) |
 | **[LiveKit Cloud](https://livekit.io/)** | Real-time WebRTC infrastructure and Agents framework for multimodal applications. | ~$20M+ | $0.01 per agent-session min | 1,000 Agent Session mins/month |
